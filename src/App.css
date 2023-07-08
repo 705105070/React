@@ -6,9 +6,9 @@
   font-family: 'Poppins', sans-serif;
 }
 body{
-  height: 100hv;
+  height: 100%;
   width: 100%;
-  background: linear-gradient(to bottom,#00CCCC 0%, #6699FF 100%);
+  background: linear-gradient(#00CCCC, #6699FF);
 }
 .wrapper{
   margin: 120px auto;
